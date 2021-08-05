@@ -1,0 +1,5 @@
+export * from './Image'
+export * from './Heading'
+export * from './Heading2'
+export * from './Heading3'
+export * from './PlainText'
