@@ -4,7 +4,7 @@ type TFooterProps = {}
 
 const Footer: FC<TFooterProps> = memo(() => {
   return (
-    <footer className='flex justify-between items-center z-40 bg-black text-white px-24 lg:px-48 py-6'>
+    <footer className='flex justify-between items-center bg-black text-white px-24 lg:px-48 py-6'>
       <div>
         Lorem ipsum.
       </div>
